@@ -5,7 +5,7 @@ Build war with maven and DevOpsArea framework
 
 Steps are the following:
 
-1. Clone the repository to your local machine
+1.  Clone the repository to your local machine
 2. The Dockerfile will do:
 
         A. Create maven container <br />
